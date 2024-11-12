@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>eBooks</title>
+    <link rel="stylesheet" href="/index.044e704e.css">
+    <script src="/index.18dbc454.js" defer=""></script>
+  </head>
+  <body>
+    <main class="bg-primary">
+      <nav class="navbar navbar-expand-lg bg-primary container" data-bs-theme="dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/">eBooks</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/books/index.html">Books</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/author/index.html">Authors</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/about.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contact.html">Contact</a>
+              </li>
+            </ul>
+            <ul class="d-flex navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="/cart.html"><i class="bi bi-cart-fill" style="color: #fff; font-size: 1.2rem"></i></a></li>              
+                <li class="nav-item">
+                <a class="btn btn-outline-light mx-4" href="/login.html">Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="btn btn-outline-light" href="/register.html">Register</a>
+              </li>
+             </ul>
+          </div>
+        </div>
+      </nav>
+    </main>
+    <header>  
+      <div id="carouselExampleDark" class="carousel carousel-dark slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="10000" style="background-image: url(&quot;book-1.1d463190.jpg&quot;); background-position: center; background-repeat: no-repeat; background-size: cover; min-height: 500px">
+        <!-- <img src="./assets/images/book-1.jpg" class="d-block w-100" alt="Book 1">-->
+            <div class="carousel-caption d-none d-md-block bg-white bg-opacity-75 px-4">
+              <h1 class="text-primary"> Whispers of the Forgotten Shore<small class="text-body-secondary"> By:Lillian Harper</small></h1>
+              <p class="lead">Amid the salt-kissed air of a sleepy coastal town, Elise uncovers a box of old letters that reveal a forbidden love story from decades past.</p>
+              <button class="btn btn-primary">Read more</button>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="2000" style="background-image: url(&quot;book-2.c104943d.jpg&quot;); background-position: center; background-repeat: no-repeat; background-size: cover; min-height: 500px">
+          <!-- <img src="./assets/images/book-2.jpg" class="d-block w-100" alt="Book 2">-->
+            <div class="carousel-caption d-none d-md-block bg-white bg-opacity-75 px-4">
+              <h1 class="text-primary">Echoes of the Crimson Dawn <small class="text-body-secondary">By:Ethan Wells</small></h1>
+              <p class="lead"> In a land ruled by dark sorcery and ruthless leaders, a young woman named Althea rises to confront her destiny.</p>
+            <button class="btn btn-primary">Read more</button>
+            </div>
+          </div>
+          <div class="carousel-item" style="backgroun-position: center; background-image: url(&quot;book-3.622b9208.jpg&quot;); background-repeat: no-repeat; background-size: cover; min-height: 500px">
+            <!--<img src="./assets/images/book-3.jpg" class="d-block w-100" alt="Book 3">-->
+            <div class="carousel-caption d-none d-md-block bg-white bg-opacity-75 px-4">
+              <h1 class="text-primary">The Quantum Mirage <small class="text-body-secondary">By:Seraphine Winters</small></h1>
+              <p class="" lead="">After a mysterious scientific breakthrough, physicist Dr. Claire Donovan finds herself caught between alternate dimensions and strange realities.</p>
+              <button class="btn btn-primary">Read more</button>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </header>
+   <main class="container py-5">
+    <h2 class="text-center mb-5 display-5">Featured Books
+   <div class="row row-cols-1 row-cols-md-3 row-cols-lg-5 g-4">
+    <!-- Book 1 -->
+    <div class="col">
+      <div class="card h-100">
+          <img src="https://via.placeholder.com/150.png?text=Book+1" class="card-img-top" alt="Whispers of the Past">
+          <div class="card-body">
+              <h5 class="card-title">Whispers of the Past</h5>
+              <h6 class="card-subtitle mb-2 text-muted"> by Olivia </h6>
+              <p class="card-text"><strong>Price:</strong>₹999 </p>
+              <div class="card-footer d-flex justify-content-between">
+                  <a href="#" class="btn btn-primary">View Details</a>
+                  <a href="#" class="btn btn-success">Buy Now</a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Book 2 -->
+  <div class="col">
+      <div class="card h-100">
+          <img src="https://via.placeholder.com/150.png?text=Book+2" class="card-img-top" alt="Echoes of Eternity">
+          <div class="card-body">
+              <h5 class="card-title">Echoes of Eternity</h5>
+              <h6 class="card-subtitle mb-2 text-muted"> by Daniel Harper</h6>
+              <p class="card-text"><strong>Price:</strong>₹1,199</p>
+              <div class="card-footer d-flex justify-content-between">
+                  <a href="#" class="btn btn-primary">View Details</a>
+                  <a href="#" class="btn btn-success">Buy Now</a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Book 3 -->
+  <div class="col">
+      <div class="card h-100">
+          <img src="https://via.placeholder.com/150.png?text=Book+3" class="card-img-top" alt="The Star Seekers">
+          <div class="card-body">
+              <h5 class="card-title">The Star Seekers</h5>
+              <h6 class="card-subtitle mb-2 text-muted"> by Mira Langston</h6>
+              <p class="card-text"><strong>Price:</strong>₹1,099</p>
+              <div class="card-footer d-flex justify-content-between">
+                  <a href="#" class="btn btn-primary">View Details</a>
+                  <a href="#" class="btn btn-success">Buy Now</a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Book 4 -->
+  <div class="col">
+      <div class="card h-100">
+          <img src="https://via.placeholder.com/150.png?text=Book+4" class="card-img-top" alt="Beneath the Waves">
+          <div class="card-body">
+              <h5 class="card-title">Beneath the Waves</h5>
+              <h6 class="card-subtitle mb-2 text-muted"> by Liam Rivers</h6>
+              <p class="card-text"><strong>Price:</strong>₹799</p>
+              <div class="card-footer d-flex justify-content-between">
+                  <a href="#" class="btn btn-primary">View Details</a>
+                  <a href="#" class="btn btn-success">Buy Now</a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Book 5 -->
+  <div class="col">
+      <div class="card h-100">
+          <img src="https://via.placeholder.com/150.png?text=Book+5" class="card-img-top" alt="Threads of Destiny">
+          <div class="card-body">
+              <h5 class="card-title">Threads of Destiny</h5>
+              <h6 class="card-subtitle mb-2 text-muted"> by Sophia Fields</h6>
+              <p class="card-text"><strong>Price:</strong> ₹899</p>
+              <div class="card-footer d-flex justify-content-between">
+                  <a href="#" class="btn btn-primary">View Details</a>
+                  <a href="#" class="btn btn-success">Buy Now</a>
+              </div>
+          </div>
+      </div>
+  </div>  
+</div>
+<h2 class="text-center my=5 display-5">Categories</h2>
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 py-5">
+    
+ <!-- Category 1 -->
+ <div class="col">
+  <div class="card h-100">
+    <div class="card-body d-flex align-items-center justify-content-center">
+      <h5 class="card-title text-center">Fiction</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Category 2 -->
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body d-flex align-items-center justify-content-center">
+      <h5 class="card-title text-center">Non-Fiction</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Category 3 -->
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body d-flex align-items-center justify-content-center">
+      <h5 class="card-title text-center">Science Fiction</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Category 4 -->
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body d-flex align-items-center justify-content-center">
+      <h5 class="card-title text-center">Mystery</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Category 5 -->
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body d-flex align-items-center justify-content-center">
+      <h5 class="card-title text-center">Romance</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Category 6 -->
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body d-flex align-items-center justify-content-center">
+      <h5 class="card-title text-center">Fantasy</h5>
+    </div>
+  </div>
+</div>
+</div>
+ </h2></main>
+ <div class="container py-5">
+  <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+          <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="0" class="active"></button>
+          <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="1"></button>
+          <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="2"></button>
+      </div>
+      
+      <div class="carousel-inner">
+          <div class="carousel-item active">
+              <div class="testimonial-card text-center">
+                 <h5 class="mb-3">Sarah Johnson</h5>
+                  <p class="text-muted mb-2">New York, USA</p>
+                  <p class="mb-4">"The service was exceptional! I couldn't be happier with the results. The team went above and beyond my expectations."</p>
+                  <div class="text-warning mb-3">
+                      ★★★★★
+                  </div>
+              </div>
+          </div>
+          
+          <div class="carousel-item">
+              <div class="testimonial-card text-center">
+                  <h5 class="mb-3">John Smith</h5>
+                  <p class="text-muted mb-2">London, UK</p>
+                  <p class="mb-4">"Incredible attention to detail and professional service. Would highly recommend to anyone looking for quality work."</p>
+                  <div class="text-warning mb-3">
+                      ★★★★★
+                  </div>
+              </div>
+          </div>
+          
+          <div class="carousel-item">
+              <div class="testimonial-card text-center">
+                 <h5 class="mb-3">Maria Garcia</h5>
+                  <p class="text-muted mb-2">Barcelona, Spain</p>
+                  <p class="mb-4">"Outstanding experience from start to finish. The team was responsive, creative, and delivered exactly what I needed."</p>
+                  <div class="text-warning mb-3">
+                      ★★★★★
+                  </div>
+              </div>
+          </div>
+      </div>
+      
+      <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+          <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+          <span class="visually-hidden">Next</span>
+      </button>
+  </div>
+  </div></body>
+</html>
