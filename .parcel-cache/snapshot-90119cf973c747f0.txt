@@ -22,7 +22,7 @@
 117C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\database-fill-add.svg133747039857692072 0
 131C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@popperjs\core\lib\utils\getOppositeVariationPlacement.js133746668727324702 0
 125C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\csso\node_modules\css-tree\cjs\convertor\create.cjs133746658788759745 0
-65C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist133758883681246959 1
+65C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist133761291913252224 1
 110C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\device-hdd.svg133747039858557568 0
 98C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\svgo\lib\svgo\plugins.js133746658816826296 0
 108C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\exposure.svg133747039866658991 0
@@ -118,7 +118,7 @@
 95C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\css-tree\dist\data.js133746658962975279 0
 104C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\bing.svg133747039832740837 0
 109C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\bar-chart.svg133747039830965873 0
-75C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\src\index.html133758883280055682 0
+75C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\src\index.html133761291606913661 0
 125C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133746658847448688 0
 109C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\crosshair.svg133747039856360215 0
 122C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133746658792695728 0
@@ -901,7 +901,7 @@
 101C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@parcel\transformer-svg\src133746658727614174 1
 126C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\features\document-currentscript.js133746659023775767 0
 117C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133746658923826432 0
-75C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\cart.html133758883679743124 0
+75C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\cart.html133761291912480951 0
 108C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\svgo\plugins\removeRasterImages.js133746658892559109 0
 156C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.js133746658682582309 0
 106C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\update-browserslist-db\README.md133746658720007609 0
@@ -1324,7 +1324,7 @@
 108C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\source-map-js\lib\source-node.d.ts133746658773030136 0
 141C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeXMLNS.js133746658870134850 0
 141C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\error.js133746658849822735 0
-79C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\register.html133758883679763221 0
+79C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\register.html133761291912480951 0
 99C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\svgo\plugins\prefixIds.js133746658868446718 0
 149C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133746658687066050 0
 117C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\features\link-icon-svg.js133746659045849533 0
@@ -3160,7 +3160,7 @@
 99C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\dotenv-expand\lib\main.js133746658713787738 0
 93C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\dotenv\CHANGELOG.md133746658671820424 0
 123C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\css-select\node_modules\domutils\lib\index.js.map133746658813318103 0
-85C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\book-2.c104943d.jpg133758883679803409 0
+85C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\book-2.c104943d.jpg133761291908511381 0
 116C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@popperjs\core\lib\dom-utils\contains.d.ts133746668707879982 0
 88C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\dotenv\LICENSE133746658689871207 0
 93C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\dotenv\package.json133746658665092537 0
@@ -3549,7 +3549,7 @@
 108C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\css-what\lib\es\stringify.d.ts.map133746658766805632 0
 100C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\font\fonts133747039925738475 1
 117C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\csso\node_modules\css-tree\dist\version.cjs133746658930927272 0
-76C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.html133758883679743124 0
+76C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.html133761291912501026 0
 116C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\csso\node_modules\css-tree\dist\version.js133746659020933579 0
 108C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap\scss\utilities\_api.scss133746668739135936 0
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\regions\BW.js133746658899817764 0
@@ -4809,7 +4809,7 @@
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\regions\TC.js133746659062244062 0
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\regions\TD.js133746659062301727 0
 109C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\x-octagon.svg133747039925231332 0
-76C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\about.html133758883679743124 0
+76C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\about.html133761291912480951 0
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\regions\TG.js133746659062930846 0
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\regions\TH.js133746659063031777 0
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\regions\TJ.js133746659063061805 0
@@ -5272,7 +5272,7 @@
 113C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\features\svg-fonts.js133746659061648362 0
 124C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\file-earmark-slides-fill.svg133747039870543988 0
 162C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133746658910084825 0
-83C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\author\index.html133758883679743124 0
+83C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\author\index.html133761291912480951 0
 113C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\caniuse-lite\data\features\svg-html5.js133746659061846616 0
 114C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\bootstrap-icons\icons\clipboard-data.svg133747039851522866 0
 87C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\@parcel\utils133746658899272482 1
@@ -8555,9 +8555,9 @@
 105C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\node_modules\.bin\update-browserslist-db.ps1133746659107939484 0
 83C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\about.95bccf2d.js133746763277824405 0
 87C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\about.95bccf2d.js.map133746763279818698 0
-72C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\author133758883679901298 1
+72C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\author133761291913131027 1
 73C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\authors133746763256461724 1
-71C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\books133758883679803409 1
+71C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\books133761291913152003 1
 83C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\books.f03cf9b5.js133746763277824405 0
 82C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\cart.f7b0d6c4.js133747052098597924 0
 86C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\cart.f7b0d6c4.js.map133747052100028423 0
@@ -8567,12 +8567,12 @@
 87C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\login.355e69e6.js.map133747051056417202 0
 86C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\register.25de21bd.js133747052098607915 0
 90C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\register.25de21bd.js.map133747052100088313 0
-82C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\books\index.html133758883679743124 0
-78C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\contact.html133758883679763221 0
-83C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.18dbc454.js133758883679743124 0
-84C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.044e704e.css133758883679763221 0
-76C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\login.html133758883679763221 0
-85C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\book-1.1d463190.jpg133758883679921380 0
-85C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\book-3.622b9208.jpg133758883680615739 0
-87C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.18dbc454.js.map133758883681186686 0
-88C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.044e704e.css.map133758883681186686 0
+84C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.044e704e.css133761291908511381 0
+85C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\book-1.1d463190.jpg133761291908569068 0
+85C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\book-3.622b9208.jpg133761291908569068 0
+83C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.18dbc454.js133761291908589150 0
+88C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.044e704e.css.map133761291908669501 0
+87C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\index.18dbc454.js.map133761291908689587 0
+78C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\contact.html133761291912480951 0
+82C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\books\index.html133761291912480951 0
+76C:\Users\Lenovo\OneDrive\Documents\GitHub\Micro\ebook_parcel\dist\login.html133761291912480951 0

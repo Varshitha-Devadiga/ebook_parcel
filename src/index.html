@@ -101,24 +101,24 @@
         </button>
       </div>
     </header>
-   <main class="container py-5">
-    <h2 class="text-center mb-5 display-5">Featured Books</h1>
-   <div class="row row-cols-1 row-cols-md-3 row-cols-lg-5 g-4">
-    <!-- Book 1 -->
-    <div class="col">
-      <div class="card h-100">
-          <img src="https://via.placeholder.com/150.png?text=Book+1" class="card-img-top" alt="Whispers of the Past">
-          <div class="card-body">
-              <h5 class="card-title">Whispers of the Past</h5>
-              <h6 class="card-subtitle mb-2 text-muted"> by Olivia </h6>
-              <p class="card-text"><strong>Price:</strong>₹999 </p>
-              <div class="card-footer d-flex justify-content-between">
-                  <a href="#" class="btn btn-primary">View Details</a>
-                  <a href="#" class="btn btn-success">Buy Now</a>
-              </div>
-          </div>
-      </div>
-  </div>
+    <main class="container py-5">
+      <h2 class="text-center mb-5 display-5">Featured Books</h1>
+     <div class="row row-cols-1 row-cols-md-3 row-cols-lg-5 g-4">
+      <!-- Book 1 -->
+      <div class="col">
+        <div class="card h-100">
+            <img src="https://via.placeholder.com/150.png?text=Book+1" class="card-img-top" alt="Whispers of the Past">
+            <div class="card-body">
+                <h5 class="card-title">Whispers of the Past</h5>
+                <h6 class="card-subtitle mb-2 text-muted"> by Olivia </h6>
+                <p class="card-text"><strong>Price:</strong>₹999 </p>
+                <div class="card-footer d-flex justify-content-between">
+                    <a href="#" class="btn btn-primary">View Details</a>
+                    <a href="#" class="btn btn-success">Buy Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
   <!-- Book 2 -->
   <div class="col">
       <div class="card h-100">
@@ -250,8 +250,8 @@
           <div class="carousel-item active">
               <div class="testimonial-card text-center">
                  <h5 class="mb-3">Sarah Johnson</h5>
-                  <p class="text-muted mb-2">New York, USA</p>
-                  <p class="mb-4">"The service was exceptional! I couldn't be happier with the results. The team went above and beyond my expectations."</p>
+                  <p class="text-white mb-2 display-6">New York, USA</p>
+                  <p class="text-white mb-4">"The service was exceptional! I couldn't be happier with the results. The team went above and beyond my expectations."</p>
                   <div class="text-warning mb-3">
                       ★★★★★
                   </div>
@@ -261,8 +261,8 @@
           <div class="carousel-item">
               <div class="testimonial-card text-center">
                   <h5 class="mb-3">John Smith</h5>
-                  <p class="text-muted mb-2">London, UK</p>
-                  <p class="mb-4">"Incredible attention to detail and professional service. Would highly recommend to anyone looking for quality work."</p>
+                  <p class="text-white mb-2 display-6">London, UK</p>
+                  <p class="text-white mb-4">"Incredible attention to detail and professional service. Would highly recommend to anyone looking for quality work."</p>
                   <div class="text-warning mb-3">
                       ★★★★★
                   </div>
@@ -272,8 +272,8 @@
           <div class="carousel-item">
               <div class="testimonial-card text-center">
                  <h5 class="mb-3">Maria Garcia</h5>
-                  <p class="text-muted mb-2">Barcelona, Spain</p>
-                  <p class="mb-4">"Outstanding experience from start to finish. The team was responsive, creative, and delivered exactly what I needed."</p>
+                  <p class="text-white mb-2 display-6">Barcelona, Spain</p>
+                  <p class="text-white mb-4">"Outstanding experience from start to finish. The team was responsive, creative, and delivered exactly what I needed."</p>
                   <div class="text-warning mb-3">
                       ★★★★★
                   </div>
@@ -290,5 +290,76 @@
           <span class="visually-hidden">Next</span>
       </button>
   </div>
+  <div class="container my-5">
+    <h2 class="text-center mb-4">Enquiry Form</h2>
+    <form>
+        <div class="row g-3">
+            <!-- First Name -->
+            <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">First Name</label>
+                <input type="text" class="form-control" id="firstName" placeholder="Enter your first name" required>
+            </div>
+            
+            <!-- Last Name -->
+            <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="lastName" placeholder="Enter your last name" required>
+            </div>
+            
+            <!-- Email -->
+            <div class="col-md-6">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+            </div>
+            
+            <!-- Mobile Number -->
+            <div class="col-md-6">
+                <label for="mobile" class="form-label">Mobile Number</label>
+                <input type="tel" class="form-control" id="mobile" placeholder="Enter your mobile number" required>
+            </div>
+            
+            <!-- Book Selection -->
+            <div class="col-md-6">
+                <label for="book" class="form-label">Select Book</label>
+                <select class="form-select" id="book" required>
+                    <option selected disabled>Choose a book...</option>
+                    <option value="book1">Book 1</option>
+                    <option value="book2">Book 2</option>
+                    <option value="book3">Book 3</option>
+                </select>
+            </div>
+            
+            <!-- Message Box -->
+            <div class="col-md-6">
+                <label for="message" class="form-label">Message</label>
+                <textarea class="form-control" id="message" rows="4" placeholder="Enter your message"></textarea>
+            </div>
+            
+            <!-- Submit Button -->
+            <div class="col-12 text-center">
+                <button type="submit" class="btn btn-primary mt-3">Submit</button>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="bg-dark py-3">
+  <div class="container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+      <div class="col-md-4 d-flex align-items-center">
+        <a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
+          <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"></use></svg>
+        </a>
+        <span class="mb-3 mb-md-0 text-white">© 2024 Company, Inc</span>
+      </div>
+  
+      <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+        <li class="ms-3"><a class="text-white" href="#"><i class="bi bi-twitter"></i></a></li>
+        <li class="ms-3"><a class="text-white" href="#"><i class="bi bi-instagram"></i></a></li>
+        <li class="ms-3"><a class="text-white" href="#"><i class="bi bi-facebook"></i></a></li>
+      
+      </ul>
+    </footer>
+  </div>
+  
   </body>
 </html>
